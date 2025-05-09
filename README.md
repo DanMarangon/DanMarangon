@@ -26,13 +26,10 @@
 
 ### 📬 Contato
 
-- 📧 **Email**: [danmarangon123@gmail.com](mailto:danmarangon123@gmail.com)  
+- 📧 **Email**: [danramosmarques123@gmail.com](mailto:danramosmarques123@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/dan-marangon-66a54a337](https://www.linkedin.com/in/dan-marangon-66a54a337)
 
 ---
 
-### 🌱 Pequenos commits, grandes aprendizados!
-> “Não é o ritmo da música, mas o propósito da melodia.”  
-> — *Desconhecido*
 
 
