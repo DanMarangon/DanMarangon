@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Dan 👋
 
-🎓 Estudante de Ciência da Computação  
-💼 Atuando na área financeira da Infra  
+🎓 Estudante de Ciência da Computação    
 💻 Aprendendo C, Python e Banco de Dados  
 🌱 Explorando projetos open source e Web3
 
