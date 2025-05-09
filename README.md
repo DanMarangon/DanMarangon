@@ -5,7 +5,6 @@
 💻 Aprendendo C, Python e Banco de Dados  
 🌱 Explorando projetos open source e Web3
 
-📊 GitHub Stats:
 ![DanMarangon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanMarangon&show_icons=true&theme=github_dark)
 
 📫 Como me encontrar:
