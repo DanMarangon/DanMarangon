@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Dan 👋</h1>
+<h1 align="center">Olá! Eu sou o Dan </h1>
 
 <p align="center">
 🎓 Estudante de Ciência da Computação | 💻 Apaixonado por código limpo e dados bem organizados  
