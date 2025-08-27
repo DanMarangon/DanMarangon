@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Ciência da Computação | 💻 Apaixonado por código limpo e dados bem organizados  
-🚀 Explorando C, Python, Banco de Dados e projetos open source na Web3
+🚀 Explorando C, Python, Banco de Dados e projetos open source na Web3.
 </p>
 
 ---
