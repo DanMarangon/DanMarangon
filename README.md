@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tecnologias e Interesses
-- 📌 C, Python, SQL
+- 📌 C, Python, SQL, HTML.
 - 💾 Modelagem e manipulação de Banco de Dados
 - 🌐 Web3, blockchain e tecnologia descentralizada
 - 📚 Ciência da Computação e algoritmos
